@@ -1,6 +1,6 @@
-### Hi there 👋
-不知道说点啥，按照惯例是应该打个招呼吧，那就这样吧
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TP-TaoSuc&show_icons=true&hide_title=true&theme=tokyonight&&hide_border=true" />  
 
-反正技术栈也窄，也也没有star
-
-![TP-TaoSuc'S Github](https://github-readme-stats.vercel.app/api?username=TP-TaoSuc)
+### Hi，很高兴见到你  
+我是小陶，这里托管着一些自己捣鼓的破玩意  
+没什么含金量，就是自己懒得干活  
+偶尔写点教程，欢迎光临[语雀](https://www.yuque.com/topson)
